@@ -1,6 +1,6 @@
 ## Hi, I'm hanliya👋
 
-A passionate Computer Science graduate with an experience as a Java Developer.
+A passionate Computer Science graduate with interst in coding, designing and more...
 
 
 ## 🌐 Socials:
